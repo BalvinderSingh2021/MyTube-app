@@ -1,6 +1,6 @@
 Music App README
 Description
-This is a music application with a Node.js backend and a frontend built using [HTML, CSS, JAVASCRIPT]. It allows users to [briefly describe the core functionality and features of your music app].
+This is a music application with a Node.js backend and a frontend built using [insert frontend framework or technology]. It allows users to [briefly describe the core functionality and features of your music app].
 
 Table of Contents
 Features
