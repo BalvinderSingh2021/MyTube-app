@@ -13,6 +13,7 @@ Frontend
 Technologies Used
 Contributing
 License
+Code formatter
 
 Features
 [List some of the key features and functionalities of your music app.]
@@ -71,6 +72,9 @@ Contributing
 
 License
 [Specify the project's license and provide a link to the license file if applicable.]
+
+Code formatter
+[Prettier.]
 
 Acknowledgments
 [If you want to acknowledge any open-source projects or individuals who inspired or contributed to your project, include them here.]
