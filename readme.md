@@ -1,6 +1,6 @@
-Music App README
+MyTube App README
 Description
-This is a music application with a Node.js backend and a frontend built using [insert frontend framework or technology]. It allows users to [briefly describe the core functionality and features of your music app].
+This is a MyTube application with a Node.js backend and a frontend built using [insert frontend framework or technology]. It allows users to [briefly describe the core functionality and features of your MyTube app].
 
 Table of Contents
 Features
@@ -16,7 +16,7 @@ License
 Code formatter
 
 Features
-[List some of the key features and functionalities of your music app.]
+[List some of the key features and functionalities of your MyTube app.]
 
 Getting Started
 
