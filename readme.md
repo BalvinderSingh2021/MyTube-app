@@ -30,7 +30,7 @@ Clone the repository:
 bash
 Copy code
 git clone https://github.com/BalvinderSingh2021/MyTube-app.git
-cd music-app
+cd MyTube-app
 Install backend dependencies:
 
 bash
