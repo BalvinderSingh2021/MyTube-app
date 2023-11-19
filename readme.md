@@ -29,7 +29,7 @@ Installation
 Clone the repository:
 bash
 Copy code
-git clone https://github.com/BalvinderSingh2021/music-app.git
+git clone https://github.com/BalvinderSingh2021/MyTube-app.git
 cd music-app
 Install backend dependencies:
 
