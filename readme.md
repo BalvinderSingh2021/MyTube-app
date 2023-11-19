@@ -1,6 +1,6 @@
-MyTube App README
+mytube App README
 Description
-This is a MyTube application with a Node.js backend and a frontend built using [insert frontend framework or technology]. It allows users to [briefly describe the core functionality and features of your MyTube app].
+This is a mytube application with a Node.js backend and a frontend built using [insert frontend framework or technology]. It allows users to [briefly describe the core functionality and features of your mytube app].
 
 Table of Contents
 Features
@@ -16,7 +16,7 @@ License
 Code formatter
 
 Features
-[List some of the key features and functionalities of your MyTube app.]
+[List some of the key features and functionalities of your mytube app.]
 
 Getting Started
 
@@ -29,8 +29,8 @@ Installation
 Clone the repository:
 bash
 Copy code
-git clone https://github.com/BalvinderSingh2021/MyTube-app.git
-cd MyTube-app
+git clone https://github.com/BalvinderSingh2021/mytube-app.git
+cd mytube-app
 Install backend dependencies:
 
 bash
