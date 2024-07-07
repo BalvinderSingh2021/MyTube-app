@@ -6,7 +6,7 @@ const app = express();
 
 // middleware start
 
-app.get('/login', (req, res) => {
+app.get('/api/login', (req, res) => {
     console.log('this is login url====>');
     res.json({"msg":"user login successfully!"})
 })
