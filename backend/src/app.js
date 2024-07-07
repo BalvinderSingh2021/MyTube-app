@@ -5,6 +5,12 @@ import cookieParser from "cookie-parser";
 const app = express();
 
 // middleware start
+
+app.get('/login', (req, res) => {
+    console.log('this is login url====>');
+    res.json({"msg":"user login successfully!"})
+})
+
 app.use(
   cors({
     origin: process.env.CORS_ORIGIN,
